@@ -1,0 +1,10 @@
+prompt GEMINI:
+1. Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+buat dalam kode program java, buat sistem dimana pengangkutan untuk laundry asrama  perempuan dilakukan di hari rabu, siap di hari kamis, untuk laundry asrama laki laki diangkut di hari jumat dan diantar di hari sabtunya. kira kira info apalagi yg dibutuhkan untuk buat sistem ini? bantu aku biar sistem yg kita buat hasilnya baik
+
+2. tak perlu harga karna ini gratis. tapi ada list berupa list list pakaian kita. tak ada maksimal berat cucian. 
+3. penting. sekarang lanjut ke kode programnya
+4. boleh
+5. ya mau, apakah program iniuser bisa input dan ada outputnya?
+6. KOK SISTEMNYA GA BERHENTI
+7. aneh menunya

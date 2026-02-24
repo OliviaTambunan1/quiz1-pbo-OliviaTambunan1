@@ -1,0 +1,20 @@
+Prompt GEMINI:
+1. Soal Pemrograman - Penjumlahan Nilai Siswa
+Deskripsi Masalah
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+kerjakan program ini dengan menggunakan bahasa java, ini semacam kertas ujian biasa yg ada nilai dan namanya, yang juga seperti deret, ada pola nilai ganjil, atau genap. juga ada perbedaan di pola nama laki laki dan perempuan. kode kelompok
+ini juga berhubungan dengan array. 
+dengan informasi ini, hasilkan kode program yang baik dan benar
+perhatikan pola pola ini.
+
+2. Deret nilai (n1, n2, …, n).
+aku mau input deret nilainya jangan pakai spasi, tapi pakai koma
+3. perbaiki kodenya kenapa kalau input nilai genap semua penjumlahannya tidak benar
+4. kayanya aku gaperlu lagi kode yang pakai gender, aku mau yg ganjil genap aja
+5. tapi berdasarkan soal dia suruh pakai kode kelompok, maksudnya apa ya, coba bantu
+6. gaada, jadi kasih aja kodenya yg terbaru dan benar untuk menyelesaikan soal
